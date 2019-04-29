@@ -153,7 +153,7 @@ function GokuLife() {
 // Class Minicell.
 function Minicell() {
  // Properties.
- this.image = new Image(); this.image.src = "Imagenes/ricardo.jpg";
+ this.image = new Image(); this.image.src = "Imagenes/8.jpg";
  this.xPos = 750; this.yPos = 300;
  this.flag = false;
  this.died = false;
